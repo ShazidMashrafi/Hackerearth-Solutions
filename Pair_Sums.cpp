@@ -1,28 +1,31 @@
 #include<bits/stdc++.h>
 using namespace std;
 using ll = long long;
-const int N=1e6+10;
-int a[N],b[N];
+
 
 void solve()
 {
-    int n;
-    long long k;
+    int n,k;
     cin>>n>>k;
+    unordered_multiset<int>s;
     for(int i=0; i<n; ++i)
     {
-        cin>>a[i];
-        b[a[i]]++;
+        int x;
+        cin>>x; 
+        s.insert(x);
     }
-    for(int i=0; i<N; ++i)
+    bool exist=false;
+    for(auto it : s)
     {
-        if(b[k-a[i]]!=0)
+        int x=it;
+        if(s.find(k-x)!=s.end() && s.find(k-x)!=s.find(x))
         {
-            cout<<"YES"<<endl;
-            return;
+            exist=true;
+            break;
         }
     }
-    cout<<"NO"<<endl;
+    if(exist) cout<<"YES"<<endl;
+    else cout<<"NO"<<endl;
 }
 
 int main()
