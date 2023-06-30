@@ -1,5 +1,1 @@
-*.exe
-*.bin
-.cph/
-.vscode/
 test/
