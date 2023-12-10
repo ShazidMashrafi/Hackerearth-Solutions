@@ -15,6 +15,7 @@ Feel free to check these codes out.
 | Monk and his Friends | [Question](https://www.hackerearth.com/practice/data-structures/trees/binary-search-tree/practice-problems/algorithm/monk-and-his-friends) | [Solution](https://github.com/ShazidMashrafi/Hackerearth-Solutions/blob/main/Monk%20and%20his%20Friends/Monk_and_his_Friends.cpp)
 | Monk's Birthday Party | [Question](https://www.hackerearth.com/problem/algorithm/monks-birthday-party) | [Solution](https://github.com/ShazidMashrafi/Hackerearth-Solutions/blob/main/Monk's%20Birthday%20Party/Monk_s_Birthday_Party.cpp)
 | The Monk and Class Marks | [Question](https://www.hackerearth.com/problem/algorithm/the-monk-and-class-marks) | [Solution](https://github.com/ShazidMashrafi/Hackerearth-Solutions/blob/main/The%20Monk%20and%20Class%20Marks/The_Monk_and_Class_Marks.cpp)
+| Pair Sums | [Question](https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/pair-sums) | [Solution](https://github.com/ShazidMashrafi/Hackerearth-Solutions/blob/main/Pair%20Sums/Pair_Sums.cpp)
 
 
 <br> 
