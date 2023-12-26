@@ -17,6 +17,7 @@ This repository contains my solutions of Hackerearth problems. They are in C++ l
 | Monk's Birthday Party | [Question](https://www.hackerearth.com/problem/algorithm/monks-birthday-party) | [Solution](https://github.com/ShazidMashrafi/Hackerearth-Solutions/tree/main/Codes/Monk's%20Birthday%20Party)
 | The Monk and Class Marks | [Question](https://www.hackerearth.com/problem/algorithm/the-monk-and-class-marks) | [Solution](https://github.com/ShazidMashrafi/Hackerearth-Solutions/tree/main/Codes/The%20Monk%20and%20Class%20Marks)
 | Pair Sums | [Question](https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/pair-sums) | [Solution](https://github.com/ShazidMashrafi/Hackerearth-Solutions/tree/main/Codes/Pair%20Sums)
+| Unlock the Door | [Question](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/name-count) | [Solution]()
 
 </div>
 
