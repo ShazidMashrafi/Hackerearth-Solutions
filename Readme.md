@@ -7,9 +7,10 @@ This repository contains my solutions of Hackerearth problems. They are in C++ l
 <div align="center">
 
 ## Index
- 
+#### Sorted by problem name
 |  Problem Name  |  Question  |  Solution   |
 | :------------: | :--------: | :---------: |
+| Monk and Divisor Conundrum | [Question](https://www.hackerearth.com/problem/algorithm/monk-and-divisor-conundrum-56e0eb99) | [Solution](https://github.com/ShazidMashrafi/Hackerearth-Solutions/tree/main/Codes/Monk%20and%20Divisor%20Conundrum)
 | Monk and his Friends | [Question](https://www.hackerearth.com/practice/data-structures/trees/binary-search-tree/practice-problems/algorithm/monk-and-his-friends) | [Solution](https://github.com/ShazidMashrafi/Hackerearth-Solutions/tree/main/Codes/Monk%20and%20his%20Friends)
 | Monk and his love for primes | [Question](https://www.hackerearth.com/problem/algorithm/monk-and-his-love-for-primes) | [Solution](https://github.com/ShazidMashrafi/Hackerearth-Solutions/tree/main/Codes/Monk%20and%20his%20love%20for%20primes)
 | Monk and the Magical Candy Bags | [Question](https://www.hackerearth.com/practice/data-structures/trees/heapspriority-queues/practice-problems/algorithm/monk-and-the-magical-candy-bags/) | [Solution](https://github.com/ShazidMashrafi/Hackerearth-Solutions/tree/main/Codes/Monk%20and%20the%20Magical%20Candy%20Bags)
