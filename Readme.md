@@ -10,6 +10,7 @@ This repository contains my solutions of Hackerearth problems. They are in C++ l
 #### Sorted by problem name
 |  Problem Name  |  Question  |  Solution   |
 | :------------: | :--------: | :---------: |
+| Hacker Decrypting Messages | [Question](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-2/practice-problems/algorithm/hacker-with-prime-bebe28ac) | [Solution](https://github.com/ShazidMashrafi/Hackerearth-Solutions/tree/main/Codes/Hacker%20Decrypting%20Messages)
 | Monk and Divisor Conundrum | [Question](https://www.hackerearth.com/problem/algorithm/monk-and-divisor-conundrum-56e0eb99) | [Solution](https://github.com/ShazidMashrafi/Hackerearth-Solutions/tree/main/Codes/Monk%20and%20Divisor%20Conundrum)
 | Monk and his Friends | [Question](https://www.hackerearth.com/practice/data-structures/trees/binary-search-tree/practice-problems/algorithm/monk-and-his-friends) | [Solution](https://github.com/ShazidMashrafi/Hackerearth-Solutions/tree/main/Codes/Monk%20and%20his%20Friends)
 | Monk and his love for primes | [Question](https://www.hackerearth.com/problem/algorithm/monk-and-his-love-for-primes) | [Solution](https://github.com/ShazidMashrafi/Hackerearth-Solutions/tree/main/Codes/Monk%20and%20his%20love%20for%20primes)
