@@ -20,6 +20,7 @@ This repository contains my solutions of Hackerearth problems. They are in C++ l
 | Monk's Birthday Party | [Question](https://www.hackerearth.com/problem/algorithm/monks-birthday-party) | [Solution](https://github.com/ShazidMashrafi/Hackerearth-Solutions/tree/main/Codes/Monk's%20Birthday%20Party)
 | Pair Sums | [Question](https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/pair-sums) | [Solution](https://github.com/ShazidMashrafi/Hackerearth-Solutions/tree/main/Codes/Pair%20Sums)
 | The Monk and Class Marks | [Question](https://www.hackerearth.com/problem/algorithm/the-monk-and-class-marks) | [Solution](https://github.com/ShazidMashrafi/Hackerearth-Solutions/tree/main/Codes/The%20Monk%20and%20Class%20Marks)
+| The Three Musketeers | [Question](https://www.hackerearth.com/problem/algorithm/the-three-musketeers-6efd5f2d) | [Solution](https://github.com/ShazidMashrafi/Hackerearth-Solutions/tree/main/Codes/The%20Three%20Musketeers)
 | Unlock the Door | [Question](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/name-count) | [Solution](https://github.com/ShazidMashrafi/Hackerearth-Solutions/tree/main/Codes/Unlock%20the%20Door)
 | Xsquare And Double Strings | [Question](https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/xsquare-and-double-strings-1/)| [Solution](https://github.com/ShazidMashrafi/Hackerearth-Solutions/tree/main/Codes/Xsquare%20And%20Double%20Strings)
 
