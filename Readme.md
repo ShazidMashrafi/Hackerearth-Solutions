@@ -11,6 +11,7 @@ This repository contains my solutions of Hackerearth problems. They are in C++ l
 |  Problem Name  |  Question  |  Solution   |
 | :------------: | :--------: | :---------: |
 | A XOR challenge | [Question](https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/xor-challenge-2420f189) | [Solution](https://github.com/ShazidMashrafi/Hackerearth-Solutions/tree/main/Codes/A%20XOR%20challenge)
+| Connected Components in a Graph | [Question](https://www.hackerearth.com/problem/algorithm/connected-components-in-a-graph) | [Solution](https://github.com/ShazidMashrafi/Hackerearth-Solutions/tree/main/Codes/Connected%20Components%20in%20a%20Graph)
 | Hacker Decrypting Messages | [Question](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-2/practice-problems/algorithm/hacker-with-prime-bebe28ac) | [Solution](https://github.com/ShazidMashrafi/Hackerearth-Solutions/tree/main/Codes/Hacker%20Decrypting%20Messages)
 | Monk and Divisor Conundrum | [Question](https://www.hackerearth.com/problem/algorithm/monk-and-divisor-conundrum-56e0eb99) | [Solution](https://github.com/ShazidMashrafi/Hackerearth-Solutions/tree/main/Codes/Monk%20and%20Divisor%20Conundrum)
 | Monk and his Father | [Question](https://www.hackerearth.com/problem/algorithm/monk-and-his-father-93b639f4) | [Solution](https://github.com/ShazidMashrafi/Hackerearth-Solutions/tree/main/Codes/Monk%20and%20his%20Father)
